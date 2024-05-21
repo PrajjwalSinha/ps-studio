@@ -1,3 +1,5 @@
-Author:Prajjwal Sinha
-Repository:ps-studio
-web-type:Portfolio
+Author:Prajjwal Sinha;
+
+Repository:ps-studio;
+
+web-type:Portfolio;
